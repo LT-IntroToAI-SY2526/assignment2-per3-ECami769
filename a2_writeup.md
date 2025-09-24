@@ -16,5 +16,5 @@ Probably just knowing how to figure out percentages, once you explained it to us
 
 
 2. Explain how you could use the match function for extracting information from a movie database.
-You could use the match function for extracting information from a movie database by 
+You could use the match function for extracting information from a movie database by telling it what you're looking for in a certain way that the programming inserted will be able to provide an answer about the movie you are talking about. For example, there can be a list of movies and each movie has multiple actors, so when someone asks for actors from a certain movie, the chatbot can provide it. 
 
